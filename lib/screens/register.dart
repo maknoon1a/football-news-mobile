@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:football_news/screens/login.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
-
+// trigger push
 class RegisterPage extends StatefulWidget {
   const RegisterPage({super.key});
 
